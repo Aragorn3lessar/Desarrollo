@@ -1,0 +1,46 @@
+/* DEFINIR ESTILOS COMO CLASES */
+
+body{
+    background-color: blueviolet; 
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+nav a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px; /* ESTABLECE ATRIBUTOS DE ESTILO PARA UNA "A" HREF EN EL INTERIOR DE UN NAV*/
+    color: cornflowerblue;
+}
+
+.Titulo1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: chartreuse;
+}
+
+.DivImagen{
+    padding: 15px;
+}
+
+.DivFormulario{
+    width: 350px;
+    height: 200px;
+    background-image: url("../img/vfqqt0OdF8sn91s3rUJwvg_store_header_image.jpg")
+    
+}
+
+/* DEFINICIÓN DE ESTILO POR ID*/
+
+#txtRut{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+#rbtEstadoCivil{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(247, 0, 255);
+}
